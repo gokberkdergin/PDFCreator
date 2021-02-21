@@ -1,0 +1,16 @@
+PODS:
+  - SimplePDFBuilder (0.1.0)
+
+DEPENDENCIES:
+  - SimplePDFBuilder (~> 0.1)
+
+SPEC REPOS:
+  trunk:
+    - SimplePDFBuilder
+
+SPEC CHECKSUMS:
+  SimplePDFBuilder: 68a634ca499ca004a8b01743b62358b9eba543a0
+
+PODFILE CHECKSUM: 1cfa1ca0e17ee055bbdc4c3562a34d09d00885ff
+
+COCOAPODS: 1.8.4

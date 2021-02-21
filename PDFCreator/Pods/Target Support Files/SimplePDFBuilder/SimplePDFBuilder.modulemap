@@ -1,0 +1,6 @@
+framework module SimplePDFBuilder {
+  umbrella header "SimplePDFBuilder-umbrella.h"
+
+  export *
+  module * { export * }
+}
